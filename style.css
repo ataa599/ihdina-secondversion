@@ -1,0 +1,38 @@
+.container_custom{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.color{
+    /* background-color: green; */
+    text-align: center;
+}
+
+.shariah{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    /* margin: 20px; */
+}
+
+.card{
+    background-color: azure;
+}
+
+.button{
+    margin-left: 10px;
+}
+
+.custom-card {
+    min-width: 200px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+.text{
+    text-decoration: underline;
+    text-shadow: 0cap;
+    
+}
